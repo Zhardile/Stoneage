@@ -9,3 +9,5 @@ Programme: Kapathy 0 to hero + Hugging face agents; Début 11/07/2026
 
 
 - Premier commit depuis en ligne de commande depuis un CODESPCACE
+
+--programme prévu pour le premier jour complété, utilsation de Colab, verification des biblioteques, du T4, découverte de Gitbhub
