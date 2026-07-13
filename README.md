@@ -13,3 +13,7 @@ Programme: Kapathy 0 to hero + Hugging face agents; Début 11/07/2026
 --programme prévu pour le premier jour complété, utilsation de Colab, verification des biblioteques, du T4, découverte de Gitbhub, révisions du Python CPGE plus nouvelles fonctions
 
 
+### Jour 2- 12/07/26:
+-Fin des rappels et compléments de python, 
+-Découverte et utilisation des class,methodes, et réalisation de mes propres bibliotheques (élementaires)- Vec2 pour des vecteurs dans le plan, Polynomes, et Fraction avec pour chacun definition de leur represenation, __add__,__mul__, et autres fonctions spécifiques.
+
